@@ -8,4 +8,5 @@ I’m a technologist who wants to help make the future of advanced AI go well fo
 - [🐦 Analysis of Language Trends with a Next-Word Prediction Model](https://github.com/ACM-Research/language-trends-mobile-keyboard) ![GitHub Repo stars](https://img.shields.io/github/stars/ACM-Research/language-trends-mobile-keyboard?style=social) - Training a recurrent neural network model on Tweets from crypto bros, K-pop stans, and other Twitter subgroups
 - [🎤 MF FOOM](https://github.com/RomanHauksson/mf-foom) - AI-generated rap lyrics and vocals in the style of MF DOOM
 - [🏀 LEBRON](https://github.com/RomanHauksson/lebron) - Sports betting prediction model and informational chatbot 
-- [✍️ Old Hugo blog](https://github.com/RomanHauksson/old-hugo-blog) - Personal blog built using a modified Hugo theme, no longer in use
+- [🦫 Old Hugo blog](https://github.com/RomanHauksson/old-hugo-blog) - Personal blog built using a modified Hugo theme, no longer in use
+- [🚀 Current Astro blog](https://github.com/RomanHauksson/astro-blog) - Personal blog built using Astro, from scratch
