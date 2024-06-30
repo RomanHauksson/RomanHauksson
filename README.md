@@ -10,6 +10,6 @@ I’m a technologist who wants to help make the future of advanced AI go well fo
 - [🔬 Academic project page template](https://github.com/RomanHauksson/academic-project-astro-template) - Template for a simple project page for your research paper, built with Astro and Tailwind CSS
 - [🎤 MF FOOM](https://github.com/RomanHauksson/mf-foom) - AI-generated rap lyrics and vocals in the style of MF DOOM, using GPT-3 and ElevenLabs
 - [🏀 LEBRON](https://github.com/RomanHauksson/lebron) - Sports betting prediction model and informational chatbot
-- [📈 demo for "I"](https://roman.technology/posts/i-demo/) - Simulated trading platform for securitized income share agreements, built with Next.js, Tailwind CSS, and Supabase
+- [📈 Demo for "I"](https://roman.technology/posts/i-demo/) - Simulated trading platform for securitized income share agreements, built with Next.js, Tailwind CSS, and Supabase
 - [🦫 Old Hugo blog](https://github.com/RomanHauksson/old-hugo-blog) - Personal blog built using a modified Hugo theme, no longer in use
 - [🚀 Current Astro blog](https://github.com/RomanHauksson/astro-blog) - Personal blog built from scratch with Astro
