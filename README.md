@@ -1,8 +1,8 @@
 # Hi, my name’s Roman!
 
-I believe the next decade will bring unprecedented technological advancement and rapid societal changes because of superintelligent AI. My life mission is to help make sure this transition goes well.
+I believe the next decade may bring unprecedented technological advancement and rapid societal changes because of superintelligent AI. My life mission is to help make sure this transition goes well.
 
-I'm currently in my 4th year studying Computer Science at the University of Texas at Dallas under a National Merit Scholarship. I also work as a frontend engineer at Baby Steps, building a website to help prospective patients decide which IVF clinic to go to using a success rate prediction model.
+I'm currently in my 4th year studying Computer Science at the University of Texas at Dallas under a National Merit Scholarship. I also work as a software engineer at Baby Steps, a startup helping prospective parents decide which IVF clinic to go to using personalized success rate predictions for each clinic in the US.
 
 ## Projects
 
