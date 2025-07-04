@@ -6,7 +6,7 @@ I'm currently in my 4th year studying Computer Science at the University of Texa
 
 ## Projects
 
-- [🔬 Research project page template](https://github.com/RomanHauksson/academic-project-astro-template) ![GitHub Repo stars](https://img.shields.io/github/stars/RomanHauksson/academic-project-astro-template?style=social) - Template for a simple project page for your research paper, built with Astro and Tailwind CSS
+- [🔬 Machine learning project page template](https://github.com/RomanHauksson/academic-project-astro-template) ![GitHub Repo stars](https://img.shields.io/github/stars/RomanHauksson/academic-project-astro-template?style=social) - Template for a simple project page for your machine learning paper, built with Astro and Tailwind CSS
 - [🕹️ GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents](https://github.com/Joshuaclymer/GameBench) ![GitHub Repo stars](https://img.shields.io/github/stars/Joshuaclymer/GameBench?style=social) – Benchmark to test the strategic reasoning ability of language models by having them play games against each other
 - [🔑 Automating Targeted Password Guessing](https://github.com/ACM-Research/targeted-password-guesses) ![GitHub Repo stars](https://img.shields.io/github/stars/ACM-Research/targeted-password-guesses?style=social) - Fine-tuning GPT-3 on leaked Wattpad user account data to generate targeted password guesses
 - [🐦 Analysis of Language Trends with a Next-Word Prediction Model](https://github.com/ACM-Research/language-trends-mobile-keyboard) ![GitHub Repo stars](https://img.shields.io/github/stars/ACM-Research/language-trends-mobile-keyboard?style=social) - Training a recurrent neural network model on Tweets from crypto bros, K-pop stans, and other Twitter subgroups
