@@ -2,6 +2,8 @@
 
 I'm currently in my 4th year studying Computer Science at the University of Texas at Dallas under a National Merit Scholarship. I also work as a software engineer at Baby Steps, a startup helping prospective parents decide which IVF clinic to go to using personalized success rate predictions for each clinic in the US.
 
+[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanhauksson)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects
 
 - [🔬 Machine learning project page template](https://github.com/RomanHauksson/academic-project-astro-template) ![GitHub Repo stars](https://img.shields.io/github/stars/RomanHauksson/academic-project-astro-template?style=social) - Template for a simple project page for your machine learning paper, built with Astro and Tailwind CSS
