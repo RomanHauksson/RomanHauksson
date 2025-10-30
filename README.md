@@ -6,7 +6,7 @@ I'm currently in my 4th year studying Computer Science at the University of Texa
 
 ## Projects
 
-- [🔬 Machine learning project page template](https://github.com/RomanHauksson/academic-project-astro-template) ![GitHub Repo stars](https://img.shields.io/github/stars/RomanHauksson/academic-project-astro-template?style=social) - Template for a simple project page for your machine learning paper, built with Astro and Tailwind CSS
+- [🔬 Research project page template](https://github.com/RomanHauksson/academic-project-astro-template) ![GitHub Repo stars](https://img.shields.io/github/stars/RomanHauksson/academic-project-astro-template?style=social) - Template for an interactive project page for your research paper, built with Astro and Tailwind
 - [🕹️ GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents](https://github.com/Joshuaclymer/GameBench) ![GitHub Repo stars](https://img.shields.io/github/stars/Joshuaclymer/GameBench?style=social) – Benchmark to test the strategic reasoning ability of large language models by having them play games against each other
 - [🔑 Automating Targeted Password Guessing](https://github.com/ACM-Research/targeted-password-guesses) ![GitHub Repo stars](https://img.shields.io/github/stars/ACM-Research/targeted-password-guesses?style=social) - Fine-tuning GPT-3 on leaked Wattpad user account data to generate targeted password guesses
 - [💥 Your life (before the singularity) in weeks](https://github.com/RomanHauksson/life-before-agi-in-weeks) – Website that visualizes how much of your pre-AGI life has passed
