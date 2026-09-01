@@ -1,9 +1,3 @@
-# Hi, my name’s Roman!
-
-In my most recent role, I was a founding engineer at Baby Steps, helping prospective parents decide between IVF clinics using success rate forecasting models. I also graduated from UT Dallas in May, studying Computer Science under a National Merit Scholarship.
-
-I’m looking for a new role, ideally in-person in SF at an early-stage startup building something ambitious and good for the world. [Check out my resume](https://roman.technology/resume.pdf), then [schedule a call](https://cal.com/romanhauksson/meeting) or [shoot me an email](mailto:roman.i0djm@aleeas.com) if you’re interested.
-
 ## Selected projects
 
 - [🔬 Academic project page template](https://github.com/RomanHauksson/academic-project-astro-template) ![GitHub Repo stars](https://img.shields.io/github/stars/RomanHauksson/academic-project-astro-template?style=social) - Template for an interactive project page for your research paper, built with Astro and Tailwind
